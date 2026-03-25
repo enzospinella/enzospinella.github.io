@@ -2,7 +2,6 @@
 
 - type: github
   icon: "fab fa-github"
-  url: 'https://github.com/enzospinella'
 
 # - type: twitter
 #   icon: "fa-brands fa-x-twitter"
@@ -11,7 +10,6 @@
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
-  url: 'enzo.spinella@gmail.com'
 
 #- type: rss
 #  icon: "fas fa-rss"
@@ -22,9 +20,8 @@
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
 #   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
 #
- - type: linkedin
-   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-   url:  'https://www.linkedin.com/in/enzo-spinella/'
+# - type: linkedin
+#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
 
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
