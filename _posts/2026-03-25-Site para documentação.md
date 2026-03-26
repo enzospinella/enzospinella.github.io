@@ -11,6 +11,6 @@ comments: true
 ---
 
 <div style="text-align: justify;">
-Ao longo da última semana, passei por vários problemas tentando criar o site para documentação. Comecei tentando usar um esquema que minha querida amiga Giovanna Hirata tinha feito através do site <https://github.com/cotes2020/jekyll-theme-chirpy> e dando um fork nele, porém tentei seguir o tutorial disponibilizado nessa página e nada funcionou para o meu computador.\\
-Alguns dias depois, mais especificamente dia 23, segunda-feira, tentei de outra forma, criei um repositório normal, fiz toda a sua configuração e depois usei a funcionalidade do git de submodule para fazer "fork" ou "clone" do repositório que a Giovanna tinha me mostrado, usando Github Pages para deployar no [meu URL](https://enzospinella.github.io) e deu tudo certo!
+Ao longo da última semana, passei por vários problemas tentando criar o site para documentação. Comecei tentando usar um esquema que minha querida amiga Giovanna Hirata tinha feito através do site <a href="https://github.com/cotes2020/jekyll-theme-chirpy">temático para páginas</a> e dando um fork nele, porém tentei seguir o tutorial disponibilizado nessa página e nada funcionou para o meu computador.\\
+Alguns dias depois, mais especificamente dia 23, segunda-feira, tentei de outra forma, criei um repositório normal, fiz toda a sua configuração e depois usei a funcionalidade do git de submodule para fazer "fork" ou "clone" do repositório que a Giovanna tinha me mostrado, usando Github Pages para deployar no <a href="https://enzospinella.github.io">meu URL</a> e deu tudo certo!
 </div>
