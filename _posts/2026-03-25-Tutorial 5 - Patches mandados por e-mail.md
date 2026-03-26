@@ -15,5 +15,5 @@ Hoje tivemos uma aula sobre a forma de envio comum de patches de contribuição 
 \\
 Sem problemas importantes.
 <hr>
-Link do tutorial: <a>https://flusp.ime.usp.br/git/sending-patches-by-email-with-git/</a>
+Link do tutorial: <a href="https://flusp.ime.usp.br/git/sending-patches-by-email-with-git/">https://flusp.ime.usp.br/git/sending-patches-by-email-with-git/</a>
 </div>
