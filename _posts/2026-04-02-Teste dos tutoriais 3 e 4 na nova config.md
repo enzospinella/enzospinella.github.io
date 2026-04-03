@@ -1,6 +1,6 @@
 ---
 title: Testando os erros corrigidos
-date: 2026-04-01 18:00:00 -0300
+date: 2026-04-02 15:00:00 -0300
 categories: [Tutorial, Kernel]
 tags: [tutoriais, softwarelivre]
 
