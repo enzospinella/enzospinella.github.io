@@ -1,6 +1,6 @@
 ---
 title: Repositório de desenvolvimento criado
-date: 2026-04-06 22:00:00 -0300
+date: 2026-04-14 14:34:00 -0300
 categories: [Kernel]
 tags: [softwarelivre, kernel]
 
