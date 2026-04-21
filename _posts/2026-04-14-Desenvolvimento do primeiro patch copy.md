@@ -12,7 +12,7 @@ comments: true
 
 <div style="text-align: justify;">
     Poucos dias após enviarmos nosso patch para o CI da disciplina, recebemos a confirmação que nosso patch estava válido e pronto para ser mandado para a lista dos mantenedores, recebemos essa mensagem:
-    <img href="../assets/foto_ci_aprovando.jpeg" />
+    <img src="/assets/foto_ci_aprovando.jpeg" alt="Confirmação do CI aprovando o patch" />
     <hr>
     Agora, enviaremos para a lista de mantenedores dos drivers (amd-gfx@lists.freedesktop.org) os quais mexemos para concluirmos essa etapa da disciplina.
 </div>
